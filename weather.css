@@ -1,0 +1,13 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+#location-form {
+  margin-bottom: 30px;
+}
+
+#weather-output {
+  font-size: 20px;
+}
